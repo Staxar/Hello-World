@@ -1,6 +1,10 @@
 ## Cześć!
 
-You can use the [editor on GitHub](https://github.com/Staxar/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kliknij poniżej, aby zobaczyć najnowsze oferty!
+
+
+[Moja strona](https://www.google.pl)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
