@@ -2,11 +2,8 @@
 
 Kliknij poniżej, aby zobaczyć najnowsze oferty!
 
+[Wyszukiwarka](https://www.google.pl)
 
-[Moja strona](https://www.google.pl)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 ## Hej
@@ -27,12 +24,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-# OK, robie liste
+# Lista produktów do kupienia poniżej:
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* PRODUKT 1
+* PRODUKT 2
+  * PRODUKT 2a
+  * PRODUKT 2b
 
 ## As Kanye West said:
 
