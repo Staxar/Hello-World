@@ -1,3 +1,5 @@
+### SKLEP INTERNETOWY - URZĄDŹ SWÓJ DOM! 
+
 ## Cześć!
 
 Kliknij poniżej, aby zobaczyć najnowsze oferty!
@@ -5,7 +7,6 @@ Kliknij poniżej, aby zobaczyć najnowsze oferty!
 [Wyszukiwarka](https://www.google.pl)
 
 
-### Markdown
 ## Hej
 ### Hello World
 
